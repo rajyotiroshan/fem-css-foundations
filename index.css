@@ -1,0 +1,14 @@
+/* @font-face {
+    font-family: ;
+    src: url();
+} */
+@import url("./styles/base.css");
+body {
+  background-color: var(--color-primary);
+  color: var(--color-text-on-primary);
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
